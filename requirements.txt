@@ -1,2 +1,2 @@
-hanlp
+hanlp>=2.1.0b35
 hanlp-restful
