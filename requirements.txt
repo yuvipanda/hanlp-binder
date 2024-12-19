@@ -1,2 +1,2 @@
-hanlp>=2.1.0b35
+hanlp>=2.1.0b64
 hanlp-restful>=0.0.23
